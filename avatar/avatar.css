@@ -16,6 +16,7 @@
 .avatar-container{
    display: flex;
    gap: 1rem;
+   align-items: center;
    
 }
 /* avatar */
@@ -24,6 +25,7 @@
     width: 7rem;
     height: 7rem;
     border: 2px solid gray;
+    position: relative;
 }
 
 .avatar-circle{
