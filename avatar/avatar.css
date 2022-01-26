@@ -16,7 +16,7 @@
 .avatar-container{
    display: flex;
    gap: 1rem;
-   row-gap: 5rem;
+   
 }
 /* avatar */
 .avatar{
@@ -52,4 +52,4 @@
     width: 5rem;
     height: 5rem;
 }
-/* avatar border */
+
