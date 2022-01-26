@@ -1,0 +1,12 @@
+@import url(/avatar/avatar.css);
+/* badge */
+.badge{
+    height: 1.2rem;
+    width: 1.2rem;
+    /* background: red; */
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 50%;
+    /* border: 2px solid white; */
+}
