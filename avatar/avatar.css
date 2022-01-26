@@ -7,9 +7,16 @@
 .wrapper{
     height: 100vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 1rem;
+}
+/* avatar-container */
+.avatar-container{
+   display: flex;
+   gap: 1rem;
+   row-gap: 5rem;
 }
 /* avatar */
 .avatar{
