@@ -1,5 +1,4 @@
 @import url(/avatar/avatar.css);
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap');
 /* alert container */
 .alert-container{
     /* border: 1px solid red; */
@@ -14,7 +13,28 @@
 
 /* red error alert */
 .red-error-alert{
-    background-color: rgb(255, 148, 148);
+    background-color: rgba(255, 148, 148, 0.918);
     color: rgba(255, 8, 8, 0.89);
+    font-weight: 600;
+}
+
+/*  yellow warning alert */
+.yellow-warning-alert{
+    background-color: rgb(255, 235, 84);
+    color: rgba(49, 49, 30, 0.89);
+    font-weight: 600;
+}
+
+/* blue information alert */
+.blue-info-alert{
+    background-color: rgb(173, 228, 255);
+    color: rgba(1, 45, 126, 0.65);
+    font-weight: 600;
+}
+
+/* green success alert */
+.green-success-alert{
+    background-color: rgb(189, 255, 163);
+    color: rgba(2, 148, 22, 0.65);
     font-weight: 600;
 }
