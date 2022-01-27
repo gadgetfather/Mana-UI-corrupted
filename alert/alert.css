@@ -1,14 +1,15 @@
 @import url(/avatar/avatar.css);
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap');
 /* alert container */
 .alert-container{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
-    width: 34.5rem;
+    width: 30.5rem;
     padding: 1rem;
     gap:1rem;
-    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    box-shadow:10px 10px 15px rgba(0, 0, 0, 0.253);
+    border-radius: 0.4rem;
 }
 
 /* red error alert */
