@@ -73,3 +73,8 @@ hover color for secondary rgb(246,246,247) */
 .btn-text-secondary:hover{
     background-color: rgba(147, 147, 147, 0.294);
 }
+
+/* icon btn */
+.btn-icon i{
+    margin-right: 0.2rem;
+}
