@@ -54,3 +54,22 @@ hover color for secondary rgb(246,246,247) */
     background-color:rgb(38,215,171) ;
     color: white;
 }
+
+
+/* text button */
+.btn-text-primary{
+    background: none;
+    box-shadow: none;
+}
+
+.btn-text-secondary{
+    background: none;
+    box-shadow: none;
+}
+
+.btn-text-primary:hover{
+    background-color: rgba(0, 208, 156, 0.246);
+}
+.btn-text-secondary:hover{
+    background-color: rgba(147, 147, 147, 0.294);
+}
