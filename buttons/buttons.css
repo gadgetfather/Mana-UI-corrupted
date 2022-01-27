@@ -33,12 +33,24 @@ hover color for secondary rgb(246,246,247) */
 /* hover effects for buttons */
 
 /* hover for primary button */
-
-
 .btn-primary:hover{
     background-color:rgb(38,215,171) ;
 }
 /* hover for secondary button */
 .btn-secondary:hover{
     background-color: rgb(246,246,247);
+}
+
+
+/* outlined button */
+.btn-outlined{
+    background:none;
+    border: 2px solid rgb(0, 208, 156) ;
+    color: rgb(0, 100, 75);
+
+}
+/* outlined button hover */
+.btn-outlined:hover{
+    background-color:rgb(38,215,171) ;
+    color: white;
 }
