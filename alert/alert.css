@@ -10,3 +10,10 @@
     gap:1rem;
     box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
 }
+
+/* red error alert */
+.red-error-alert{
+    background-color: rgb(255, 148, 148);
+    color: rgba(255, 8, 8, 0.89);
+    font-weight: 600;
+}
