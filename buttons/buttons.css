@@ -1,0 +1,17 @@
+@import url(/avatar/avatar.css);
+
+/* button */
+
+.btn{
+    background-color: rgb(239,239,239);
+    border: 0;
+    border-radius: 0.4rem;
+    font-family: inherit;
+    padding: 0.8rem;
+}
+
+/* primary button */
+/* hover color for primary rgb(38,215,171) */
+.btn-primary{
+    background-color: rgb(0, 208, 156);
+}
