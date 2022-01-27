@@ -15,7 +15,7 @@
     gap: 1rem;
 }
 /* avatar-container */
-.avatar-container{
+.container{
    display: flex;
    gap: 1rem;
    align-items: center;
