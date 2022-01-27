@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -5,6 +6,7 @@
 }
 /* wrapper */
 .wrapper{
+    font-family: 'Outfit',sans-serif;
     height: 100vh;
     display: flex;
     flex-direction: column;
