@@ -1,0 +1,16 @@
+@import url(/avatar/avatar.css);
+@import url(/buttons/buttons.css);
+
+
+/* card */
+.card-container{
+    width: 21.875rem;
+    display: flex;
+    flex-direction: column;
+    padding:1rem;
+    gap: 0.4rem;
+    border-radius: 0.4rem;
+    background-color: var(--card-BG);
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.15);
+}
+
