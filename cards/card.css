@@ -75,3 +75,8 @@ body{padding-bottom: 500px;} /* temp*/
  flex-direction: row;
  width: 30rem;
 }
+
+/* card shadow */
+.card-shadow{
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.233);
+}
