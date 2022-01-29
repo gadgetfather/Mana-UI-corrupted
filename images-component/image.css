@@ -8,3 +8,9 @@
 .rounded-img{
     border-radius: 50%;
 }
+
+
+.rounded-corner{
+    border-radius: 0.2rem;
+
+}
