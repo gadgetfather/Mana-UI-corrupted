@@ -9,37 +9,39 @@
     gap:1rem;
     box-shadow:5px 5px 6px rgba(0, 0, 0, 0.253);
     border-radius: 0.4rem;
+    font-weight: 600;
 }
 
 /* red error alert */
 .red-error-alert{
     background-color: rgba(255, 148, 148, 0.918);
     color: rgba(131, 0, 0, 0.89);
-    font-weight: 600;
+    
 }
 
 /*  yellow warning alert */
 .yellow-warning-alert{
     background-color: rgb(255, 239, 114);
     color: rgba(49, 49, 30, 0.89);
-    font-weight: 600;
+    
 }
 
 /* blue information alert */
 .blue-info-alert{
     background-color: rgb(173, 228, 255);
     color: rgba(0, 26, 73, 0.65);
-    font-weight: 600;
+    
 }
 
 /* green success alert */
 .green-success-alert{
     background-color: rgb(189, 255, 163);
     color: rgba(1, 31, 5, 0.65);
-    font-weight: 600;
+    
 }
 
 /* alert close icon */
 .alert-container-close{
     margin-left: auto;
+    cursor: pointer;
 }
