@@ -41,3 +41,27 @@ body{padding-bottom: 500px;} /* temp*/
     top: 9rem;
     color: white;
 }
+/* card image */
+.card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.img-container{
+    position: relative;
+}
+
+/* card badge */
+.card-badge{
+    width: 3rem;
+    /* height: 3rem; */
+    background-color: rgb(42,249,200);
+    position: absolute;
+    text-align: center;
+    padding-right: .5rem;
+    top: 0.9rem;
+    left: 0.9rem;
+    /* border-top-right-radius: 0.3rem; */
+    border-bottom-right-radius: 0.3rem;
+    /* font-weight: bold; */
+}
