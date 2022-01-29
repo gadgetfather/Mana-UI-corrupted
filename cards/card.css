@@ -1,4 +1,32 @@
 @import url(/avatar/avatar.css);
 @import url(/buttons/buttons.css);
 
+body{
 
+}
+
+/* card container */
+.card-container{
+    width:23rem;
+    padding: 0.9rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    background-color: rgb(238,237,240);
+    border-radius: 0.4rem;
+}
+
+.card-title{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+.card-subtitle{
+    font-size: 1.3125rem;
+    margin: 0;
+}
+
+.card-description{
+    line-height: 1.33;
+}
