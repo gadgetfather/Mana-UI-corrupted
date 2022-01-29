@@ -61,7 +61,11 @@ body{padding-bottom: 500px;} /* temp*/
     padding-right: .5rem;
     top: 0.9rem;
     left: 0.9rem;
-    /* border-top-right-radius: 0.3rem; */
+    
     border-bottom-right-radius: 0.3rem;
-    /* font-weight: bold; */
+   
+}
+/* vertical card */
+.card-vertical{
+    width: 14.5rem;
 }
