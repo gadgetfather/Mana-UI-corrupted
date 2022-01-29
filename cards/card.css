@@ -82,3 +82,18 @@ body{padding-bottom: 500px;} /* temp*/
 .card-shadow{
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.233);
 }
+
+/* media query */
+@media only screen and (max-width: 700px) {
+   html{
+       font-size: 1.2rem;
+   }
+   .card-container{
+       width: 18rem;
+   }
+   .card-horizontal{
+       width: 20rem;
+   }
+  }
+
+  
