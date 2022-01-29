@@ -69,3 +69,9 @@ body{padding-bottom: 500px;} /* temp*/
 .card-vertical{
     width: 14.5rem;
 }
+
+/* horizontal card */
+.card-horizontal{
+ flex-direction: row;
+ width: 30rem;
+}
