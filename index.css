@@ -1,7 +1,23 @@
+/* font import */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap');
+/*component imports */
+@import url(./alert/alert.css);
+@import url(./avatar/avatar.css);
+@import url(./badge/badge.css);
+@import url(./buttons/buttons.css);
+@import url(./cards/card.css);
+@import url(./images-component/image.css);
+@import url(./inputs/input.css);
+/* ------------------------ */
+@import url(docsite-css/navbar.css);
 /* reset css */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Outfit",sans-serif;
 }
 
+.wrapper{
+    height: 100vh;
+}
