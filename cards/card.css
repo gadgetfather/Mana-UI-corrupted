@@ -38,7 +38,7 @@ body{padding-bottom: 500px;} /* temp*/
 /* overlay text */
 .card-text-overlay{
     position: absolute;
-    top: 9rem;
+    bottom:0rem;
     color: white;
 }
 /* card image */
@@ -49,6 +49,8 @@ body{padding-bottom: 500px;} /* temp*/
 }
 .img-container{
     position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
 /* card badge */
