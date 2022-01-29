@@ -4,16 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* wrapper */
-.wrapper{
-    font-family: 'Outfit',sans-serif;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-}
+
 /* avatar-container */
 .container{
    display: flex;
