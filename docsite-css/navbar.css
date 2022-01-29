@@ -1,0 +1,23 @@
+.navbar{
+    margin-top: 1rem;
+    /* background-color: aqua; */
+    display: flex;
+    height: 3rem;
+    justify-content: space-between;
+    /* padding-bottom: 3rem; */
+    align-items: center;
+}
+.brand-name{
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+
+.nav-buttons{
+    display: flex;
+    gap: 1rem;
+    margin:0 1rem;
+}
+
+.nav-link{
+    text-decoration: none;
+}
